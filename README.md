@@ -10,7 +10,7 @@ The front-end part of smart-brain, a web app that detects human faces in an imag
 
 You can grab Clarifai API key [here](https://www.clarifai.com/) -->
 
-- The full version of the app is deployed on Heroku. You can open it [here](https://facerecognition-smartbrain.netlify.app/).
+- The full version of the app is deployed on Heroku. You can open it [here](https://rusuraluca-facerecognition-brain.netlify.app/).
 
 - You can find the code for backend and server [here](https://github.com/rusuraluca/smart-brain-api).
 
